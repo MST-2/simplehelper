@@ -3,7 +3,7 @@
 [![N|Solid](https://cdn.xyntac.host/static/content/bg-img/simplehelper.png)]()
 
 
-Simple helper, ist a super simple Discord bot written in discord.js.
+Simple helper, is a super simple Discord bot written in discord.js.
 
   - Moderation
   - Helpful information commands
@@ -29,7 +29,7 @@ No. As the name says, "SimpleHelper", meaning simple. Feel free to fork it and m
 
 You can. I won't help you with it though.
 
-> Can I requent feature X?
+> Can I request feature X?
 
 Sure, as long as the name of the bot ("SimpleHelper"), meaning simple is present in your suggestion. No complicated logging features etc.
 
