@@ -1,0 +1,11 @@
+{
+  "name": "simplehelper",
+  "version": "1.1.0",
+  "description": "SimpleHelper - Super simple Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MST2",
+  "license": "MIT"
+}

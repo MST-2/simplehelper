@@ -1,0 +1,12 @@
+{
+  "prefix": "your prefix",
+  "token": "token"
+}
+
+/*
+For those who did not read the Wiki and are now here and don't get it:
+
+prefix = the prefix your commands should have, e.g. !
+token = your bot's token, get it form discord.com/developers
+
+*/
