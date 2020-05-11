@@ -3,7 +3,7 @@
 [![N|Solid](https://cdn.xyntac.host/static/content/bg-img/simplehelper.png)]()
 
 
-Simple helper,, ist a super simple Discord bot written in discord.js.
+Simple helper, ist a super simple Discord bot written in discord.js.
 
   - Moderation
   - Helpful information commands
