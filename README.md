@@ -9,7 +9,7 @@ Simple helper,, ist a super simple Discord bot written in discord.js.
   - Helpful information commands
   - Self hosted
 
-# Self hosting
+## Self hosting
 
 SimpleHelper is not a hosted bot, meaning you will need to host it yourself. You will need:
   - A computer or server with Node.js installed (at least 12.16.xx)
@@ -19,7 +19,7 @@ SimpleHelper is not a hosted bot, meaning you will need to host it yourself. You
 A detailed installation instruction can be found in the [Wiki](https://github.com/MST-2/simplehelper/wiki).
 
 
-### FAQ
+## FAQ
 
 > Will the bot get more advanced features soon?
 
@@ -35,13 +35,13 @@ Sure, as long as the name of the bot ("SimpleHelper"), meaning simple is present
 
 
 
-### Help & Reporting Bugs
+## Help & Reporting Bugs
 
 Feel free to use the GitHub issues feature if you need help or would like to report a bug.
 
 
 
-### License
+## License
 
 SimpleHelper is released under the MIT License.
 
