@@ -1,8 +1,5 @@
 # SimpleHelper
 
-[![N|Solid](https://cdn.xyntac.host/static/content/bg-img/simplehelper.png)]()
-
-
 Simple helper, is a super simple Discord bot written in discord.js.
 
   - Moderation
